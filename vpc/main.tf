@@ -1,3 +1,3 @@
 output "out" {
-  value = var.
+  value = var.env
 }
