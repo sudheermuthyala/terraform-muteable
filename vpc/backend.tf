@@ -2,6 +2,6 @@ terraform{
     backend "s3" {}
 }
 
-provider "" {
+provider "aws" {
   
 }
