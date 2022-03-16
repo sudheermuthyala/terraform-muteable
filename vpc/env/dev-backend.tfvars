@@ -1,3 +1,3 @@
 bucket = "msbu4cket"
-key    = "path/to/my/key"
+key    = "terraform-muteable"
 region = "us-east-1"
