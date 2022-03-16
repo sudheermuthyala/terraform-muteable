@@ -1,3 +1,3 @@
 bucket = "mybucket"
-    key    = "path/to/my/key"
-    region = "us-east-1"
+key    = "path/to/my/key"
+region = "us-east-1"
